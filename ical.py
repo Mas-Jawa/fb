@@ -139,6 +139,7 @@ def login_sal():
 		Console().print(f" {H2}• {P2}[bold green]Login Berhasil, jalankan Ulang Script")
 		sleep(2);exit()
 	except Exception as e:os.system('rm -rf .sallok.txt');os.system('rm -rf .sallok.txt');print(e);exit()
+print()
 #<--------------[ DEF-LOGIN-LAGI ]-------------->#
 def login_sal1():
 	try:
