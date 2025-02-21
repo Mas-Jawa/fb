@@ -1,0 +1,18 @@
+# HTTP Cookie File downloaded with cookies.txt by Genuinous @genuinous
+# This file can be used by wget, curl, aria2c and other standard compliant tools.
+# Usage Examples:
+#   1) wget -x --load-cookies cookies.txt "https://www.facebook.com/marketplace/item/612273659954892/?ref=category_feed&amp;referral_code=undefined&amp;referral_story_type=listing&amp;tracking=%7B%22qid%22%3A%22-7720329058507830013%22%2C%22mf_story_key%22%3A%224159097354213285%22%2C%22commerce_rank_obj%22%3A%22%7B%5C%22target_id%5C%22%3A4159097354213285%2C%5C%22target_type%5C%22%3A0%2C%5C%22primary_position%5C%22%3A0%2C%5C%22ranking_signature%5C%22%3A5414344023693328384%2C%5C%22commerce_channel%5C%22%3A504%2C%5C%22value%5C%22%3A4.1628909334439e-5%7D%22%7D"
+#   2) curl --cookie cookies.txt "https://www.facebook.com/marketplace/item/612273659954892/?ref=category_feed&amp;referral_code=undefined&amp;referral_story_type=listing&amp;tracking=%7B%22qid%22%3A%22-7720329058507830013%22%2C%22mf_story_key%22%3A%224159097354213285%22%2C%22commerce_rank_obj%22%3A%22%7B%5C%22target_id%5C%22%3A4159097354213285%2C%5C%22target_type%5C%22%3A0%2C%5C%22primary_position%5C%22%3A0%2C%5C%22ranking_signature%5C%22%3A5414344023693328384%2C%5C%22commerce_channel%5C%22%3A504%2C%5C%22value%5C%22%3A4.1628909334439e-5%7D%22%7D"
+#   3) aria2c --load-cookies cookies.txt "https://www.facebook.com/marketplace/item/612273659954892/?ref=category_feed&amp;referral_code=undefined&amp;referral_story_type=listing&amp;tracking=%7B%22qid%22%3A%22-7720329058507830013%22%2C%22mf_story_key%22%3A%224159097354213285%22%2C%22commerce_rank_obj%22%3A%22%7B%5C%22target_id%5C%22%3A4159097354213285%2C%5C%22target_type%5C%22%3A0%2C%5C%22primary_position%5C%22%3A0%2C%5C%22ranking_signature%5C%22%3A5414344023693328384%2C%5C%22commerce_channel%5C%22%3A504%2C%5C%22value%5C%22%3A4.1628909334439e-5%7D%22%7D"
+#
+.facebook.com	TRUE	/marketplace/category	TRUE	0	presence	C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1632404627911%2C%22v%22%3A1%7D
+.facebook.com	TRUE	/	TRUE	1695475585	sb	73HXXxFX1aYhM2gocN8Rhfui
+.facebook.com	TRUE	/	TRUE	1691924153	datr	73HXX6QTkcRYNLXdfGBZTLp_
+.facebook.com	TRUE	/	FALSE	1640182371	_fbp	fb.1.1629124548726.2098197228
+.facebook.com	TRUE	/	TRUE	0	usida	eyJ2ZXIiOjEsImlkIjoiQXF6aDJ3cGxmbm5mdCIsInRpbWUiOjE2MzE3MDQwNTd9
+.facebook.com	TRUE	/	TRUE	1633002233	dpr	2
+.facebook.com	TRUE	/	TRUE	1664020469	c_user	100003321828835
+.facebook.com	TRUE	/	TRUE	1632493597	spin	r.1004442794_b.trunk_t.1632403596_s.1_v.2_
+.facebook.com	TRUE	/	TRUE	1633011183	wd	1920x1089
+.facebook.com	TRUE	/	TRUE	1664020469	xs	15%3AX_hZlJD_Eto5pg%3A2%3A1632403583%3A-1%3A2301%3A%3AAcVUKfJunKQTijkc92k-i8coEADARKgk6ONxFxhErQ
+.facebook.com	TRUE	/	TRUE	1640260468	fr	0aWocTiI03PDkMq8Q.AWXSgSs1A09dXWFT8rwoOZ5ZthQ.BhTbx1.lC.AAA.0.0.BhTbx1.AWWRqQME7S0
