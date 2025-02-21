@@ -44,7 +44,6 @@ def Ical():
 			return f.read().splitlines()
 		for ub in ua:
 			ua.append(ub)
-	except:pass
 	except :
 		ugent = "Mozilla/5.0 (Linux; Android 10; SM-N971U Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/100.0.4896.58 Mobile Safari/537.36"
 	
