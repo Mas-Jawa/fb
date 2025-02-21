@@ -122,7 +122,7 @@ def SallLOGo():
 [blue]STATUS  : PREMIUM 
 [blue]VERSION : V2                      ''',width=68,title=f"[[green] BANGICALL [/]]",padding=(0,2),style=f"bold green"))
 #<--------------[ DEF-LOGIN ]-------------->#
-def logincoki():
+def login_sal():
 	try:
 		cok = Console().input(f" {H2}• {P2}cookie : ")
 		open('.salltod.txt','w').write(cok)
